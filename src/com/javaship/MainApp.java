@@ -3,7 +3,10 @@ package com.javaship;
 public class MainApp {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		//create doctor object for methods to interact with
+		Doctor d = new Doctor();
+		d.treatPatient();
 
 	}
 
