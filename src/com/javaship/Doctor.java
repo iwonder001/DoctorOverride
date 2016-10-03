@@ -25,7 +25,7 @@ public class Doctor {
 	}
 
 	public void giveAdvice() {
-		// TODO Auto-generated method stub
+		
 		
 	}
 }
