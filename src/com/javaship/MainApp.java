@@ -7,6 +7,10 @@ public class MainApp {
 		//create doctor object for methods to interact with
 		Doctor d = new Doctor();
 		d.treatPatient();
+		
+		FamilyDoctor f = new FamilyDoctor();
+		f.giveAdvice();
+	
 
 	}
 
