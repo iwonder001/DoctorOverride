@@ -6,7 +6,11 @@ public class Doctor {
 
 	// the constructor
 	public Doctor(boolean w) {
-
+		worksAtHospital = w;
 	}
 
+	// create the get and set method for the worksAtHospital variable
+	public boolean getWorksAtHospital() {
+		return worksAtHospital;
+	}
 }
